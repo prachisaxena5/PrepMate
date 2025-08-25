@@ -49,9 +49,10 @@ npm install
 npm start
 ```
 **Other tools**
-🌐 Axios
-🔐 bcrypt (password hashing)
-📂 Dotenv (environment variables)
+- 🌐 Axios
+- 🔐 bcrypt (password hashing)
+- 📂 Dotenv (environment variables)
+
 ---
 
 **📂 Project Structure**
