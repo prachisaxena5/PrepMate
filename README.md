@@ -35,3 +35,46 @@ cd frontend
 npm install
 npm start
 ```
+
+**Backend**
+-Node.js
+-Express.js
+-MongoDB (Mongoose)
+-JWT + bcrypt
+
+**Backend setup**
+```bash
+cd backend
+npm install
+npm start
+```
+**Other tools**
+🌐 Axios
+🔐 bcrypt (password hashing)
+📂 Dotenv (environment variables)
+---
+
+**📂 Project Structure**
+```
+PrepMate/
+│
+├── backend/
+│   ├── config/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   └── server.js
+│
+└── frontend/
+    ├── src/
+    │   ├── components/
+    │   ├── pages/
+    │   ├── context/
+    │   └── utils/
+    └── package.json
+```
+---
+**🤝 Contributing**
+Pull requests are welcome!
+For major changes, please open an issue first to discuss what you would like to change.
