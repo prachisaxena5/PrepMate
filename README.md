@@ -37,10 +37,10 @@ npm start
 ```
 
 **Backend**
--Node.js
--Express.js
--MongoDB (Mongoose)
--JWT + bcrypt
+- Node.js
+- Express.js
+- MongoDB (Mongoose)
+- JWT + bcrypt
 
 **Backend setup**
 ```bash
